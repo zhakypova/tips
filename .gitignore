@@ -1,2 +1,9 @@
 /venv
 .idea/
+**/__pycache__/
+
+.env.prod
+.env.prod.db
+
+app/entrypoint.sh
+app/entrypoint.prod.sh
